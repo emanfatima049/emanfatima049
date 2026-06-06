@@ -1,4 +1,4 @@
-# Hi, I'm [Eman Fatima] 👋
+# Hi, I'm Eman Fatima BUKC Information Technology 👋
 
 🚀  BUKC |AI Developer | FastAPI | React | Deep Learning | Web Developer
 
