@@ -59,7 +59,7 @@ Environmental Microorganism Dataset for Compound Microscopy
 ### 🔹 DeepSort-3C
 Background-Removed Object Dataset for Intelligent Conveyor Belt Classification  
 
-🔗 Mendeley Link: **PASTE YOUR DEEPSORT-3C LINK HERE**
+🔗 Mendeley Link: **https://data.mendeley.com/datasets/gzmtph8zs2/1**
 
 ---
 
