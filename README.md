@@ -2,7 +2,7 @@
 
 🚀  BUKC |AI Developer | FastAPI | React | Deep Learning | Web Developer
 
-Eman Fatima BUKC IT student, build intelligent AI-powered applications using **Python, FastAPI, React, and Deep Learning**.  
+Eman Fatima BUKC BSIT student, build intelligent AI-powered applications using **Python, FastAPI, React, and Deep Learning**.  
 My focus is on **Computer Vision, Healthcare AI, and real-world problem solving**.
 Dataset Publications on mendeley.com **SEM PathoDiff: Latent Diffusion-Augmented Scanning Electron Microscope Images of Pathogenic Bacteria Vibrio cholerae, Streptococcus pneumoniae, and Staphylococcus aureus**, **EMDS-7 DiffuMorph: Latent Diffusion-Augmented Environmental Microorganism Dataset for Compound Microscopy**,
 **DeepSort-3C: Background-Removed Object Dataset for Intelligent Conveyor Belt Classification**
