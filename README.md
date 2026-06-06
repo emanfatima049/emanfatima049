@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Eman%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20AI and Deep%20Learning%20Researcher%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=17&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Eman%20Fatima&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Deep%20Learning%20Researcher%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=17&descColor=a78bfa"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Computer+Vision+%26+Deep+Learning+%F0%9F%A7%A0;Building+AI+for+Healthcare+%26+Environment+%F0%9F%94%AC;Full+Stack+%7C+FastAPI+%2B+React+%2B+MERN+%E2%9A%A1;3+Published+Research+Datasets+%F0%9F%93%81;3%C3%97+Merit+Scholar+%40+BUKC+%F0%9F%8F%86" alt="Typing SVG" />
