@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Zenodo-Research-blue?style=for-the-badge&logo=zenodo">
 </a>
 
-<a href="YOUR_YOUTUBE_CHANNEL_URL">
+<a href="https://youtu.be/tq2OheOhF34?si=qWb2vx7z4R5GbcSf">
 <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
 </a>
 
@@ -67,19 +67,18 @@ Background-Removed Object Dataset for Intelligent Conveyor Belt Classification
 
 ### 🧪 MicroDetectAI
 AI system for predicting microbial contamination in water samples  
-🔗 GitHub: **PASTE PROJECT LINK**
+🔗 YouTube: **https://youtu.be/tq2OheOhF34?si=qWb2vx7z4R5GbcSf**
+🔗 Linkedinpost: **https://www.linkedin.com/posts/eman-fatima-it_finalyearproject-artificialintelligence-deeplearning-ugcPost-7463872231190790144-M8qQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElamn4BLWVbjmNu4XGzaEzxT5fHBOY7ktw**
 
 ---
 
 ### 🚚 DeepSort-3C System
 Computer vision-based industrial object classification system  
-🔗 GitHub: **PASTE PROJECT LINK**
 
 ---
 
 ### 🏥 Pharmac Management System
 Oracle DB-based pharmacy management system  
-🔗 GitHub: **PASTE PROJECT LINK**
 
 ---
 
@@ -97,12 +96,6 @@ Oracle DB-based pharmacy management system
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </p>
-
----
-
-## 🎥 YouTube Showcase
-🎬 Upload demos, tutorials, and project walkthroughs here  
-🔗 Channel: **PASTE YOUR YOUTUBE LINK HERE**
 
 ---
 
