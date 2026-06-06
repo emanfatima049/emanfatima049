@@ -11,11 +11,11 @@
 
 <p align="center">
 
-<a href="YOUR_GITHUB_PROFILE_URL">
+<a href="https://github.com/emanfatima049/">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_ZENODO_PROFILE_OR_DOI">
+<a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest/">
 <img src="https://img.shields.io/badge/Zenodo-Research-blue?style=for-the-badge&logo=zenodo">
 </a>
 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/eman-fatima-it/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -32,7 +32,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 BS Information Technology student at BUKC  
+- 🎓 BUKC BS Information Technology 
 - 🤖 AI Developer focused on **Computer Vision & Deep Learning**  
 - 🧠 Passionate about real-world AI solutions in healthcare & industry  
 - 🌐 Full Stack Developer (React + FastAPI)  
@@ -45,14 +45,14 @@
 Latent Diffusion-Augmented Scanning Electron Microscope dataset  
 📌 *Vibrio cholerae, Streptococcus pneumoniae, Staphylococcus aureus*
 
-🔗 Mendeley Link: **PASTE YOUR SEM PATHODIFF LINK HERE**
+🔗 Mendeley Link: **https://data.mendeley.com/datasets/s9yxwjb4g4/1**
 
 ---
 
 ### 🔹 EMDS-7 DiffuMorph
 Environmental Microorganism Dataset for Compound Microscopy  
 
-🔗 Mendeley Link: **PASTE YOUR EMDS-7 LINK HERE**
+🔗 Mendeley Link: **https://data.mendeley.com/datasets/vh3nbj892g/1**
 
 ---
 
